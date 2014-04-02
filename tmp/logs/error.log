@@ -1,0 +1,942 @@
+2014-03-27 15:41:05 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Posts/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Posts/view.ctp',
+)
+Request URL: /cake/posts/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(463): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-03-28 16:05:06 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Model/AppModel.php, line 34]
+2014-03-28 16:05:06 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /cake/users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 34)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-28 16:08:02 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Model/AppModel.php, line 34]
+2014-03-28 16:08:02 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /cake/users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 34)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-28 16:19:04 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Model/AppModel.php, line 34]
+2014-03-28 16:19:04 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /cake/users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 34)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-28 16:19:09 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Model/AppModel.php, line 34]
+2014-03-28 16:19:09 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 34)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-28 16:20:07 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Model/AppModel.php, line 34]
+2014-03-28 16:20:07 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 34)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-28 16:20:13 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Model/AppModel.php, line 34]
+2014-03-28 16:20:13 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 34)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-28 16:21:12 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Model/AppModel.php, line 34]
+2014-03-28 16:21:12 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 34)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 34, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-28 20:47:23 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-03-30 21:31:47 Error: [MissingControllerException] Controller class WidgetController could not be found.
+Exception Attributes: array (
+  'class' => 'WidgetController',
+  'plugin' => NULL,
+)
+Request URL: /cake/widget/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-30 21:52:58 Error: [MissingControllerException] Controller class LogoutController could not be found.
+Exception Attributes: array (
+  'class' => 'LogoutController',
+  'plugin' => NULL,
+)
+Request URL: /cake/logout
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-30 22:46:27 Error: [MissingComponentException] Component class MathCaptchaComponent could not be found.
+Exception Attributes: array (
+  'class' => 'MathCaptchaComponent',
+  'plugin' => false,
+)
+Request URL: /cake/users/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('MathCaptcha', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(UsersController))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(181): Controller->constructClasses()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-03-30 22:57:48 Error: Fatal Error (64): Cannot redeclare User::$belongsTo in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Model/User.php, line 232]
+2014-03-30 22:57:48 Error: [FatalErrorException] Cannot redeclare User::$belongsTo
+Request URL: /cake/users/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 232)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 232, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 232, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-30 22:58:38 Error: Fatal Error (64): Cannot redeclare User::$actsAs in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Model/User.php, line 91]
+2014-03-30 22:58:38 Error: [FatalErrorException] Cannot redeclare User::$actsAs
+Request URL: /cake/users/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 91)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 91, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 91, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 02:20:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/js/modernizr-2.6.2.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 02:20:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/js/jquery-1.9.0.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 02:20:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 02:20:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/js/modernizr-2.6.2.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 02:20:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 02:21:04 Error: [MissingControllerException] Controller class ContactsController could not be found.
+Exception Attributes: array (
+  'class' => 'ContactsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/contacts
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 02:22:07 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Contacts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Contacts/index.ctp',
+)
+Request URL: /cake/contacts
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(463): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(ContactsController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-03-31 03:02:25 Error: [MissingActionException] Action UsersController::dashboard() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'dashboard',
+)
+Request URL: /cake/users/dashboard
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-03-31 03:04:31 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 283]
+2014-03-31 03:04:31 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/dashboard
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 283)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 283, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 283, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 03:04:59 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 283]
+2014-03-31 03:04:59 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/dashboard
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 283)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 283, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 283, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 03:05:27 Error: [MissingTableException] Table children for model Child was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'children',
+  'class' => 'Child',
+  'ds' => 'default',
+)
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Model/Model.php(3498): Model->setSource('children')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Model/Model.php(1355): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Model/Model.php(1447): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Model/Model.php(1434): Model->hasField('title', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Model/Model.php(880): Model->hasField(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Model/Model.php(3069): Model->__get('displayField')
+#6 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Model/Model.php(2934): Model->_findList('before', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Model/Model.php(2869): Model->buildQuery('list', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php(372): Model->find('list')
+#9 [internal function]: UsersController->dashboard_users()
+#10 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-03-31 03:08:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:09:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:10:01 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:10:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:11:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:11:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:11:42 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/get_reports
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:17:20 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 176]
+2014-03-31 03:17:20 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cake/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 176)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 176, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 176, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 03:22:51 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:22:51 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/get_reports
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:27:42 Error: [MissingActionException] Action UsersController::dashboard_() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'dashboard_',
+)
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/Object.php(106): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Component/RequestHandlerComponent.php(271): Object->requestAction('/users/dashboar...', Array)
+#4 [internal function]: RequestHandlerComponent->beforeRedirect(Object(UsersController), Array, NULL, false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Utility/ObjectCollection.php(132): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Event/CakeEventManager.php(247): call_user_func(Array, Object(CakeEvent))
+#8 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(765): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php(287): Controller->redirect(Array, NULL, false)
+#10 [internal function]: UsersController->dashboard()
+#11 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#14 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/Object.php(106): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#15 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Component/RequestHandlerComponent.php(271): Object->requestAction('/users/dashboar...', Array)
+#16 [internal function]: RequestHandlerComponent->beforeRedirect(Object(UsersController), '/users/dashboar...', NULL, true)
+#17 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Utility/ObjectCollection.php(132): call_user_func_array(Array, Array)
+#18 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#19 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Event/CakeEventManager.php(247): call_user_func(Array, Object(CakeEvent))
+#20 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(765): CakeEventManager->dispatch(Object(CakeEvent))
+#21 /Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php(126): Controller->redirect('/users/dashboar...')
+#22 [internal function]: UsersController->login()
+#23 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#24 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#25 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#26 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#27 {main}
+2014-03-31 03:34:58 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 124]
+2014-03-31 03:34:58 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 03:35:54 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 124]
+2014-03-31 03:35:54 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 03:36:02 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 124]
+2014-03-31 03:36:02 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 03:36:12 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 131]
+2014-03-31 03:36:12 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 131)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 131, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 131, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 03:36:51 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:36:52 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/get_reports
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:36:59 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:36:59 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/get_reports
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:43:57 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 124]
+2014-03-31 03:43:57 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 03:44:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:44:08 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/get_reports
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:45:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:45:17 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/get_reports
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:45:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:45:21 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/get_reports
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:47:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:47:08 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/get_reports
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:47:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:47:40 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/get_reports
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:48:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:48:45 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/get_reports
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 03:50:35 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 12:45:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 12:49:12 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /cake/images/glyphicons-halflings.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 13:36:43 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 124]
+2014-03-31 13:36:43 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 13:36:50 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 124]
+2014-03-31 13:36:50 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 13:36:58 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /cake/user/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 13:49:19 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 124]
+2014-03-31 13:49:19 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 13:49:56 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 124]
+2014-03-31 13:49:56 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 13:50:02 Error: Fatal Error (1): Call to a member function field() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/UsersController.php, line 124]
+2014-03-31 13:50:02 Error: [FatalErrorException] Call to a member function field() on a non-object
+Request URL: /cake/users/login
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 124, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 13:50:19 Error: [MissingActionException] Action UsersController::dashboard_managers() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'dashboard_managers',
+)
+Request URL: /cake/users/dashboard_managers
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-03-31 14:03:15 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /cake/reports/set_tag_data
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-02 00:26:19 Error: Fatal Error (4): syntax error, unexpected ')' in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Groups/index.ctp, line 33]
+2014-04-02 00:26:19 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /cake/groups/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 33, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 33, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-02 15:41:37 Error: Fatal Error (4): syntax error, unexpected ',', expecting ']' in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Users/dashboard_users.ctp, line 63]
+2014-04-02 15:41:37 Error: [FatalErrorException] syntax error, unexpected ',', expecting ']'
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 63)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 63, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 63, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-02 14:00:13 Error: [MissingActionException] Action UsersController::users() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'users',
+)
+Request URL: /cake/users/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-02 14:00:23 Error: Fatal Error (1): Call to a member function show() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Users/add.ctp, line 9]
+2014-04-02 14:00:23 Error: [FatalErrorException] Call to a member function show() on a non-object
+Request URL: /cake/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-02 16:28:01 Error: [MissingHelperException] Helper class SesionHelper could not be found.
+Exception Attributes: array (
+  'class' => 'SesionHelper',
+  'plugin' => false,
+)
+Request URL: /cake/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Sesion')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(824): HelperCollection->__isset('Sesion')
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Pages/home.ctp(283): View->__get('Sesion')
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(935): include('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(897): View->_evaluate('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(466): View->_render('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(952): View->render('home', NULL)
+#7 /Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/PagesController.php(69): Controller->render('home')
+#8 [internal function]: PagesController->display('home')
+#9 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-02 16:31:44 Error: [MissingHelperException] Helper class SesionHelper could not be found.
+Exception Attributes: array (
+  'class' => 'SesionHelper',
+  'plugin' => false,
+)
+Request URL: /cake/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Sesion')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(824): HelperCollection->__isset('Sesion')
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Pages/home.ctp(283): View->__get('Sesion')
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(935): include('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(897): View->_evaluate('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(466): View->_render('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(952): View->render('home', NULL)
+#7 /Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/PagesController.php(69): Controller->render('home')
+#8 [internal function]: PagesController->display('home')
+#9 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-02 16:33:25 Error: [MissingHelperException] Helper class SesionHelper could not be found.
+Exception Attributes: array (
+  'class' => 'SesionHelper',
+  'plugin' => false,
+)
+Request URL: /cake/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Sesion')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(824): HelperCollection->__isset('Sesion')
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Pages/home.ctp(283): View->__get('Sesion')
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(935): include('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(897): View->_evaluate('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(466): View->_render('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(952): View->render('home', NULL)
+#7 /Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/PagesController.php(69): Controller->render('home')
+#8 [internal function]: PagesController->display('home')
+#9 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-02 16:34:41 Error: [MissingHelperException] Helper class SesionHelper could not be found.
+Exception Attributes: array (
+  'class' => 'SesionHelper',
+  'plugin' => false,
+)
+Request URL: /cake/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Sesion')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(824): HelperCollection->__isset('Sesion')
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Pages/home.ctp(274): View->__get('Sesion')
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(935): include('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(897): View->_evaluate('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(466): View->_render('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(952): View->render('home', NULL)
+#7 /Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/PagesController.php(69): Controller->render('home')
+#8 [internal function]: PagesController->display('home')
+#9 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-02 16:36:42 Error: [MissingHelperException] Helper class SesionHelper could not be found.
+Exception Attributes: array (
+  'class' => 'SesionHelper',
+  'plugin' => false,
+)
+Request URL: /cake/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Sesion')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(824): HelperCollection->__isset('Sesion')
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Pages/home.ctp(274): View->__get('Sesion')
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(935): include('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(897): View->_evaluate('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(466): View->_render('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(952): View->render('home', NULL)
+#7 /Applications/XAMPP/xamppfiles/htdocs/cake/app/Controller/PagesController.php(69): Controller->render('home')
+#8 [internal function]: PagesController->display('home')
+#9 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-02 17:20:13 Error: [MissingHelperException] Helper class UserHelper could not be found.
+Exception Attributes: array (
+  'class' => 'UserHelper',
+  'plugin' => false,
+)
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('User')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(824): HelperCollection->__isset('User')
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Users/dashboard_users.ctp(56): View->__get('User')
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(935): include('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(897): View->_evaluate('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(466): View->_render('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#7 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#8 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-04-02 17:21:13 Error: [MissingHelperException] Helper class UserHelper could not be found.
+Exception Attributes: array (
+  'class' => 'UserHelper',
+  'plugin' => false,
+)
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('User')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(824): HelperCollection->__isset('User')
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Users/dashboard_users.ctp(56): View->__get('User')
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(935): include('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(897): View->_evaluate('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php(466): View->_render('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#7 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#8 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /Applications/XAMPP/xamppfiles/htdocs/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-04-02 17:32:55 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Users/dashboard_users.ctp, line 63]
+2014-04-02 17:32:55 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 63)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 63, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 63, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-02 17:34:29 Error: Fatal Error (4): syntax error, unexpected ')' in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Users/dashboard_users.ctp, line 64]
+2014-04-02 17:34:29 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-02 17:40:07 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Users/dashboard_users.ctp, line 59]
+2014-04-02 17:40:07 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 59, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 59, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-02 17:41:11 Error: Fatal Error (1): Unsupported operand types in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Users/dashboard_users.ctp, line 60]
+2014-04-02 17:41:11 Error: [FatalErrorException] Unsupported operand types
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Applications/X...', 60)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Applications/X...', 60, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Applications/X...', 60, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-02 17:41:22 Error: Fatal Error (1): Unsupported operand types in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Users/dashboard_users.ctp, line 60]
+2014-04-02 17:41:22 Error: [FatalErrorException] Unsupported operand types
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Applications/X...', 60)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Applications/X...', 60, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Applications/X...', 60, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-02 17:44:29 Error: Fatal Error (1): Call to a member function read() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/cake/app/View/Users/dashboard_users.ctp, line 58]
+2014-04-02 17:44:29 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 58)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 58, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 58, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-02 17:45:19 Error: Fatal Error (1): Cannot access empty property in [/Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/View/View.php, line 843]
+2014-04-02 17:45:19 Error: [FatalErrorException] Cannot access empty property
+Request URL: /cake/users/dashboard_users
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', '/Applications/X...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', '/Applications/X...', 843, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', '/Applications/X...', 843, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

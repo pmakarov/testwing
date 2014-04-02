@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+</head>
+<body>
+
+<h3>Ajax to PHP demo</h3>
+<div>
+	<input id="myButton" type="button" name="ajaxbtn" value="ajax"/>
+</div>
+<script src="https://code.jquery.com/jquery.js"></script>
+<script>
+ 	$(document).ready(function(){
+		
+		$( "#myButton" ).click(function() {
+			console.log("ajax button clicked!");
+			doAjax();
+		});
+
+	});
+
+	function doAjax() {
+		console.log($("#myButton").val());
+	var msg = { 
+		"location" : "GunsRUs",
+		"value" : "10000000",
+		//"bool" : true //comment this line in or out to see dif PHP JSON respnse
+	 };
+	
+	$.ajax({
+	 	type: "POST",
+	 	async: false,
+	 	data: JSON.stringify(msg),
+	 	dataType: "JSON",
+	 	url: 'ajax.php',
+	 	beforeSend: function(x) {
+	 		if (x && x.overrideMimeType) {
+	 			x.overrideMimeType("application/j-son;charset=UTF-8");
+	 		}
+	 	},
+	 	success: function(result) {
+	 		console.log(result);
+		},
+		error: function (request, status, error) {
+	 		   		alert(status + " : " + error);
+				}
+	 	    });
+}
+	
+</script>
+</body>
+</html> 
