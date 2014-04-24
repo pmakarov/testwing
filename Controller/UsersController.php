@@ -19,10 +19,18 @@ class UsersController extends AppController {
 	public function beforeFilter() {
 	    parent::beforeFilter();
 	  	$this->Auth->allow('register', 'recover', 'verify');
+		//$this->Auth->allow('*');
 	   
 	}
 	
-	
+	public function install() {
+		$group= $this->User->Group;
+		
+		$group->id = 1;
+		$this->Acl->allow($group, 'controllers/Uploads');
+		echo "Emuricah Heck Yeah";
+		exit();
+	}
 /**
  * index method
  *
@@ -365,8 +373,23 @@ class UsersController extends AppController {
   }
   
  public function dashboard_administrators() {
-	// $this->layout = 'dashboard';
-	$this->layout = 'default_OLD';
+	$this->layout = 'dashboard';
+	//$this->layout = 'default_OLD';
+	if(is_null($this->Session->read('Auth.User.id')== null)) {
+	 	$this->Session->setFlash(__("you've been logged out of the system"));
+		$this->redirect(array('controller'=>'users', 'action'=>'login'));
+	 }
+	
+	$this->loadModel('Upload');
+	//$this->Upload->recursive = 0;
+	$this->set('uploads', $this->Paginator->paginate());
+	$uploads = $this->Upload->find('all');
+	$this->loadModel('TransactionStatus');
+	$transaction_statuses = $this->TransactionStatus->find('list');
+	$this->loadModel('TransactionRejectionTypes');
+	$transaction_rejection_types = $this->TransactionRejectionTypes->find('list');
+   	$this->set(compact('uploads', 'transaction_rejection_types'));
+	$this->set('transaction_statuses', $transaction_statuses);
 }
  
  
@@ -374,9 +397,7 @@ class UsersController extends AppController {
  public function dashboard_users() {
 	 $this->layout = 'dashboard';
 	 
-	 
-	 if(is_null($this->Session->read('Auth.User.id')== null))
-	 {
+	 if(is_null($this->Session->read('Auth.User.id')== null)) {
 	 	$this->Session->setFlash(__("you've been logged out of the system"));
 		$this->redirect(array('controller'=>'users', 'action'=>'login'));
 	 }

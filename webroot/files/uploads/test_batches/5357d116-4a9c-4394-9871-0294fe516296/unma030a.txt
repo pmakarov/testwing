@@ -1,0 +1,334 @@
+	$$CH    UNMA030A                    bNYASTD000LL   Z   N                        XNMADD05UNMA03  7704
+$$CCH    UNMA030ADb                    20141062014105T192925NNNNNNN HS16        XNMADD05UNMA03  7704
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0001
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+                                             ACT   PIIN    BACKLOG    REOPEN                                     ERRORS
+FIC       PIIN         SPIIN     ORG   RGS   CD     FT     AGE DTE    SEC NO
+NBT   SPM4AX13D9401   060501     ED     98                14 APR 16
+NBT   SPM5E414M0109   P00001     JR     98                14 APR 16
+NBT   SPM4A111G0010   10J301     JF     98                14 APR 16
+NBT   SPM7L413C0012   P00004     SC     98                14 APR 16
+NBT   SPM5L509D0016   002201     JJ     98                14 APR 16
+NBT   SPE4A613MF620   P00002     JF     98                14 APR 16
+NBT   SPE4A713M2123   P00002     DG     98                14 APR 16
+NBT   SPE5E914M0124   P00001     JR     98                14 APR 16
+NBT   SPM1C113D1025   000902     JF     98                14 APR 16
+NBT   SPE4A613C0029   P00002     JF     98                14 APR 16
+NBT   SPM7L413M0238   P00002     JJ     98                14 APR 16
+NBT   SPE7L414M1339   P00001     SC     98                14 APR 16
+NBT   SPRPA109G004Y   Z62R02     YR     98                14 APR 16
+NBT   SPE4A713MB443   P00001     DB     98                14 APR 16
+NBT   SPE7M814M1543   P00001     JF     98                14 APR 16
+NBT   SPE4A613MM344   P00001     SC     98                14 APR 16
+NBT   SPE4A414V4754   P00001     ES     98                14 APR 16
+NBT   SPM7LX11D0157   78HL01     SE     98                14 APR 16
+NBT   SPM7LX11D0157   81RC01     SE     98                14 APR 16
+NBT   SPE4A712M6460   P00001     SC     98                14 APR 16
+NBT   SPE4A713M1562   P00002     JJ     98                14 APR 16
+NBT   SPE7M014M0963   P00001     SC     98                14 APR 16
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0002
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+                                             ACT   PIIN    BACKLOG    REOPEN                                     ERRORS
+FIC       PIIN         SPIIN     ORG   RGS   CD     FT     AGE DTE    SEC NO
+NBT   SPM7LA13M3763   P00001     JF     98                14 APR 16
+NBT   SPE4A614M9563   P00001     DC     98                14 APR 16
+NBT   SPE4A613MR065   P00001     SC     98                14 APR 16
+NBT   SPM4A712M5566   P00001     SC     98                14 APR 16
+NBT   SPE4A713M6270   P00003     SC     98                14 APR 16
+NBT   SPM4A711MC976   P00002     JF     98                14 APR 16
+NBT   SPE4A413M1078   P00001     JJ     98                14 APR 16
+NBT   SPE4A614M4379   P00001     JR     98                14 APR 16
+NBT   SPE5E914V1481   P00001     SC     98                14 APR 16
+NBT   SPM7MC13M7684   P00001     SC     98                14 APR 16
+NBT   SPE4A414M0692   P00003     DG     98                14 APR 16
+NBT   SPE4A614M3294   P00001     SC     98                14 APR 16
+NBT   SPE4A713M9597   P00001     DG     98                14 APR 16
+LAST PAGE
+
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0003
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPM7L413M0238   P00002     JJ      98           A006
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  A006                14 OCT 27                          U C9  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPM7L1       S2305A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          4M107                 B
+       ...DISCOUNT TERMS...   PAY        TOT CONTR      SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC     %   DA   %  DA NT O  OFFICE       AMOUNT        DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                          9                                                         SFTW
+    ...IBOP..                                                              FOB T               I
+                                                                               R P G   L   P S A
+      I   C  C ........WIP %.........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS...      FEE           COST      AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RECP PAY RECP    AMOUNT         AMOUNT    CERT REV R N S K W E M A T L B
+NAJ                                  00000000000000 00000000000000         T                   1
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0004
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPE7L414M1339   P00001     SC      98           E006
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E006                14 SEP 29                          U A3  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7L4       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          29183                 B
+       ...DISCOUNT TERMS...   PAY        TOT CONTR      SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC     %   DA   %  DA NT O  OFFICE       AMOUNT        DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                          9                                                         TSW
+    ...IBOP..                                                              FOB T               I
+                                                                               R P G   L   P S A
+      I   C  C ........WIP %.........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS...      FEE           COST      AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RECP PAY RECP    AMOUNT         AMOUNT    CERT REV R N S K W E M A T L B
+NAJ                                  00000000000000 00000000000000             Y               1
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0005
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPRPA109G004Y   Z62R02     YR      98           A008
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  A008                14 JAN 31                            A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A5       S3916A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          3B1R2                 C
+       ...DISCOUNT TERMS...   PAY        TOT CONTR      SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC     %   DA   %  DA NT O  OFFICE       AMOUNT        DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                          9                                                         CTH
+    ...IBOP..                                                              FOB T               I
+                                                                               R P G   L   P S A
+      I   C  C ........WIP %.........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS...      FEE           COST      AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RECP PAY RECP    AMOUNT         AMOUNT    CERT REV R N S K W E M A T L B
+NAJ            800  800 800          00000000000000 00000000000000             Y               1
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   4710015955373    00000002   EA         687.52000        1375.04                       DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     TUBING ASSE                                      S    S    S     00    10           DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD  REQUISITION        CUR    BER    D/F
+NAL  0001
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0006
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPRPA109G004Y   Z62R02     YR      98           A008
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH    DEL SCH         TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 JAN 31  00000002    BX
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0007
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPE7M814M1543   P00001     JF      98           B006
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B006                14 JUL 14                          U A2  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7M8       S3605A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          55097                 B
+       ...DISCOUNT TERMS...   PAY        TOT CONTR      SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC     %   DA   %  DA NT O  OFFICE       AMOUNT        DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                          9                                                         TW
+    ...IBOP..                                                              FOB T               I
+                                                                               R P G   L   P S A
+      I   C  C ........WIP %.........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS...      FEE           COST      AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RECP PAY RECP    AMOUNT         AMOUNT    CERT REV R N S K W E M A T L B
+NAJ                                  00000000000000 00000000000000             Y               1
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0008
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPE4A414V4754   P00001     ES      98           C010
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  C010                14 AUG 11                          U A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A4       S0707A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          78286                 C
+       ...DISCOUNT TERMS...   PAY        TOT CONTR      SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC     %   DA   %  DA NT O  OFFICE       AMOUNT        DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                          9                                                         T
+    ...IBOP..                                                              FOB T               I
+                                                                               R P G   L   P S A
+      I   C  C ........WIP %.........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS...      FEE           COST      AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RECP PAY RECP    AMOUNT         AMOUNT    CERT REV R N S K W E M A T L B
+NAJ                                  00000000000000 00000000000000                             1
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   1560011467835    00000044   EA          45.80000        2015.20                       DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001      FITTING,AF                                      S    S    S                        DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD  REQUISITION        CUR    BER    D/F
+NAL  0001
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0009
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPE4A414V4754   P00001     ES      98           C010
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH    DEL SCH         TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 AUG 11  00000044    BX
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0010
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPE7M014M0963   P00001     SC      98           C012
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  C012                14 MAR 12                          U C9  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7M0       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          66200                 B
+       ...DISCOUNT TERMS...   PAY        TOT CONTR      SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC     %   DA   %  DA NT O  OFFICE       AMOUNT        DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                          9                                                         TW
+    ...IBOP..                                                              FOB T               I
+                                                                               R P G   L   P S A
+      I   C  C ........WIP %.........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS...      FEE           COST      AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RECP PAY RECP    AMOUNT         AMOUNT    CERT REV R N S K W E M A T L B
+NAJ                                  00000000000000 00000000000000                             2
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   4820015584998    00000001   EA          71.99000          71.99                       DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     VALVE,SAFET                                      D    D    S                        DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD  REQUISITION        CUR    BER    D/F
+NAL  0001
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0011
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPE7M014M0963   P00001     SC      98           C012
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH    DEL SCH         TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W62SKJ          14 MAR 12  00000001    BX         W62SKJ33110001
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0012
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPE5E914V1481   P00001     SC      98           D020
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D020                14 MAY 21                          U C9  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE5E9       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          8J942                 B
+       ...DISCOUNT TERMS...   PAY        TOT CONTR      SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC     %   DA   %  DA NT O  OFFICE       AMOUNT        DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                          9                                                         T
+    ...IBOP..                                                              FOB T               I
+                                                                               R P G   L   P S A
+      I   C  C ........WIP %.........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS...      FEE           COST      AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RECP PAY RECP    AMOUNT         AMOUNT    CERT REV R N S K W E M A T L B
+NAJ                                  00000000000000 00000000000000                             1
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   5320012350136    00000100   EA           7.95000         795.00                       DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001      RIVET,SOLI                                      S    S    S                        DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD  REQUISITION        CUR    BER    D/F
+NAL  0001
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0013
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPE5E914V1481   P00001     SC      98           D020
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH    DEL SCH         TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    DPTP00          14 MAY 21  00000100    BX         PPTP5440060001
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0014
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPE4A614M3294   P00001     SC      98           A010
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  A010                15 APR 01                          U A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A6       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          04EA0                 B
+       ...DISCOUNT TERMS...   PAY        TOT CONTR      SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC     %   DA   %  DA NT O  OFFICE       AMOUNT        DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                          9                                                         TSAFW
+    ...IBOP..                                                              FOB T               I
+                                                                               R P G   L   P S A
+      I   C  C ........WIP %.........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS...      FEE           COST      AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RECP PAY RECP    AMOUNT         AMOUNT    CERT REV R N S K W E M A T L B
+NAJ                                  00000000000000 00000000000000         T           A       6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   5365011471444    00001043   EA          27.24000       28411.32                       DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001      BUSHING,MA                                      S    S    D                        DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD  REQUISITION        CUR    BER    D/F
+NAL  0001
+i
+REPORT NUMBER  UNMA030A                DATE  14 APR 16                   CAO CODE                 PAGE  0015
+                                              ACCEPTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG        RGS       BATCH                                                       ERRORS
+     SPE4A614M3294   P00001     SC      98           A010
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH    DEL SCH         TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3210          15 APR 01  00001043    BX
+                                        P A      SERVICE
+      CLIN                              Q C       COMPL     TOTAL ITEM       PROJ
+FIC   ELIN    DESCRIPTION OF SERVICES   A C ACR   DATE        AMOUNT         MNGR
+NBH  0002    CONTRACTOR FIRST ARTICLE   D D 9   U                3750.00                              DELETE  NBH
+LAST PAGE
+

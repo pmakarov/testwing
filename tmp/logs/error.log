@@ -940,3 +940,1389 @@ Stack Trace:
 #3 /Applications/XAMPP/xamppfiles/htdocs/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2014-04-03 01:38:24 Error: [MissingViewException] View file "C:\xampp\htdocs\testwing\app\View\Users\install.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\testwing\\app\\View\\Users\\install.ctp',
+)
+Request URL: /testwing/users/install
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-04-03 01:43:33 Error: [MissingControllerException] Controller class BatchController could not be found.
+Exception Attributes: array (
+  'class' => 'BatchController',
+  'plugin' => NULL,
+)
+Request URL: /testwing/batch/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-03 02:12:18 Error: [NotFoundException] Invalid batch
+Request URL: /testwing/batches/delete/0
+Stack Trace:
+#0 [internal function]: BatchesController->delete('0')
+#1 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(BatchesController), Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(BatchesController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-04-03 02:51:25 Error: Fatal Error (4): syntax error, unexpected end of file, expecting function (T_FUNCTION) in [C:\xampp\htdocs\testwing\app\Model\Batch.php, line 117]
+2014-04-03 02:51:25 Error: [FatalErrorException] syntax error, unexpected end of file, expecting function (T_FUNCTION)
+Request URL: /testwing/batches/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 117)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 117, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 117, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 02:51:43 Error: Fatal Error (4): syntax error, unexpected end of file in [C:\xampp\htdocs\testwing\app\Model\Batch.php, line 117]
+2014-04-03 02:51:43 Error: [FatalErrorException] syntax error, unexpected end of file
+Request URL: /testwing/batches/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 117)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 117, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 117, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 03:07:51 Error: Fatal Error (4): syntax error, unexpected ';', expecting ']' in [C:\xampp\htdocs\testwing\app\Model\Batch.php, line 61]
+2014-04-03 03:07:51 Error: [FatalErrorException] syntax error, unexpected ';', expecting ']'
+Request URL: /testwing/batches/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 61)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 61, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 61, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 15:23:47 Error: [MissingControllerException] Controller class UploadController could not be found.
+Exception Attributes: array (
+  'class' => 'UploadController',
+  'plugin' => NULL,
+)
+Request URL: /testwing/upload/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-03 15:25:30 Error: [MissingComponentException] Component class MathCaptchaComponent could not be found.
+Exception Attributes: array (
+  'class' => 'MathCaptchaComponent',
+  'plugin' => false,
+)
+Request URL: /testwing/users/install
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('MathCaptcha', Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(UsersController))
+#2 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(181): Controller->constructClasses()
+#3 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-04-03 18:47:58 Error: Fatal Error (4): syntax error, unexpected 'return' (T_RETURN) in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 123]
+2014-04-03 18:47:58 Error: [FatalErrorException] syntax error, unexpected 'return' (T_RETURN)
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 123)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 123, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 123, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 12:22:38 Error: [MissingControllerException] Controller class EditypeController could not be found.
+Exception Attributes: array (
+  'class' => 'EditypeController',
+  'plugin' => NULL,
+)
+Request URL: /testwing/editype
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-04 12:31:25 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 61]
+2014-04-04 12:31:25 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 61, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 61, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 12:35:19 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 61]
+2014-04-04 12:35:19 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 61, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 61, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 15:32:56 Error: Fatal Error (1): Class 'X12Parser' not found in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 136]
+2014-04-04 15:32:56 Error: [FatalErrorException] Class 'X12Parser' not found
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'X12Parse...', 'C:\xampp\htdocs...', 136)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'X12Parse...', 'C:\xampp\htdocs...', 136, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'X12Parse...', 'C:\xampp\htdocs...', 136, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 15:34:47 Error: Fatal Error (1): Class 'X12Parser' not found in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 136]
+2014-04-04 15:34:47 Error: [FatalErrorException] Class 'X12Parser' not found
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'X12Parse...', 'C:\xampp\htdocs...', 136)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'X12Parse...', 'C:\xampp\htdocs...', 136, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'X12Parse...', 'C:\xampp\htdocs...', 136, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 15:35:47 Error: Fatal Error (1): Class 'X12Parser' not found in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 136]
+2014-04-04 15:35:47 Error: [FatalErrorException] Class 'X12Parser' not found
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'X12Parse...', 'C:\xampp\htdocs...', 136)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'X12Parse...', 'C:\xampp\htdocs...', 136, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'X12Parse...', 'C:\xampp\htdocs...', 136, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 15:43:51 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 36]
+2014-04-04 15:43:51 Error: [FatalErrorException] Cannot access empty property
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 36)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 36, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 36, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 16:04:02 Error: Fatal Error (1): Call to undefined function rrmdir() in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 140]
+2014-04-04 16:04:02 Error: [FatalErrorException] Call to undefined function rrmdir()
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 140)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 140, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 140, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 18:06:31 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\testwing\lib\Cake\Utility\String.php, line 235]
+2014-04-04 18:06:31 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 235)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 235, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 235, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 18:39:52 Error: Fatal Error (1): Call to undefined function rrmdir() in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 153]
+2014-04-04 18:39:52 Error: [FatalErrorException] Call to undefined function rrmdir()
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 153)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 153, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 153, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 18:40:09 Error: Fatal Error (1): Call to undefined function rrmdir() in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 153]
+2014-04-04 18:40:09 Error: [FatalErrorException] Call to undefined function rrmdir()
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 153)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 153, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 153, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 18:55:46 Error: Fatal Error (4): syntax error, unexpected '[' in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 39]
+2014-04-04 18:55:46 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 19:03:53 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 127]
+2014-04-04 19:03:53 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 127)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 127, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 127, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 19:07:43 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 153]
+2014-04-04 19:07:43 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 153)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 153, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 153, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 20:49:28 Error: Fatal Error (1): Call to undefined function parseX12() in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 46]
+2014-04-04 20:49:28 Error: [FatalErrorException] Call to undefined function parseX12()
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 46, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 46, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-05 02:44:47 Error: Fatal Error (1): Maximum execution time of 120 seconds exceeded in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 76]
+2014-04-05 02:44:47 Error: [FatalErrorException] Maximum execution time of 120 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 76, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 76, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-05 02:51:29 Error: Fatal Error (1): Maximum execution time of 120 seconds exceeded in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 73]
+2014-04-05 02:51:29 Error: [FatalErrorException] Maximum execution time of 120 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 73)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 73, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 73, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-05 02:57:21 Error: Fatal Error (1): Call to undefined function basepath() in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 88]
+2014-04-05 02:57:21 Error: [FatalErrorException] Call to undefined function basepath()
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 88)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 88, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 88, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-05 03:02:39 Error: Fatal Error (1): Maximum execution time of 240 seconds exceeded in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 84]
+2014-04-05 03:02:39 Error: [FatalErrorException] Maximum execution time of 240 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 84)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 84, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 84, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-05 12:55:19 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 145]
+2014-04-05 12:55:19 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 145)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 145, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 145, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-06 02:04:53 Error: [MissingControllerException] Controller class Upload.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Upload.phpController',
+  'plugin' => NULL,
+)
+Request URL: /testwing/upload.php
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-06 13:35:53 Error: Fatal Error (1): Maximum execution time of 240 seconds exceeded in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 77]
+2014-04-06 13:35:53 Error: [FatalErrorException] Maximum execution time of 240 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 77, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 77, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-07 01:52:13 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\Transaction.php, line 13]
+2014-04-07 01:52:13 Error: [FatalErrorException] Cannot access empty property
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-07 02:04:02 Error: Fatal Error (1): Call to undefined function array_key() in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 164]
+2014-04-07 02:04:02 Error: [FatalErrorException] Call to undefined function array_key()
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 164)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 164, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 164, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-07 02:24:55 Error: Fatal Error (1): Call to undefined function foundDuplicates() in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 164]
+2014-04-07 02:24:55 Error: [FatalErrorException] Call to undefined function foundDuplicates()
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 164)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 164, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 164, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-07 02:42:10 Error: Fatal Error (1): Maximum execution time of 240 seconds exceeded in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 84]
+2014-04-07 02:42:10 Error: [FatalErrorException] Maximum execution time of 240 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 84)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 84, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 84, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-07 02:54:26 Error: Fatal Error (1): Maximum execution time of 480 seconds exceeded in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 85]
+2014-04-07 02:54:26 Error: [FatalErrorException] Maximum execution time of 480 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 85)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 85, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 85, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-07 03:06:47 Error: Fatal Error (1): Maximum execution time of 480 seconds exceeded in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 90]
+2014-04-07 03:06:47 Error: [FatalErrorException] Maximum execution time of 480 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 90)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 90, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 90, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-07 03:16:33 Error: Fatal Error (1): Maximum execution time of 480 seconds exceeded in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 90]
+2014-04-07 03:16:33 Error: [FatalErrorException] Maximum execution time of 480 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 90)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 90, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 90, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-07 03:27:10 Error: Fatal Error (1): Maximum execution time of 480 seconds exceeded in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 92]
+2014-04-07 03:27:10 Error: [FatalErrorException] Maximum execution time of 480 seconds exceeded
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 92)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\xampp\htdocs...', 92, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\xampp\htdocs...', 92, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-07 18:51:16 Error: Fatal Error (1): Call to undefined function rrmdir() in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 153]
+2014-04-07 18:51:16 Error: [FatalErrorException] Call to undefined function rrmdir()
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 153)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 153, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 153, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-09 01:59:13 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(26): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-09 01:59:57 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(26): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-09 20:15:20 Error: Fatal Error (4): syntax error, unexpected 'new' (T_NEW) in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 14]
+2014-04-09 20:15:20 Error: [FatalErrorException] syntax error, unexpected 'new' (T_NEW)
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 14, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 14, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-09 20:16:50 Error: Fatal Error (4): syntax error, unexpected 'Array' (T_ARRAY) in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 20]
+2014-04-09 20:16:50 Error: [FatalErrorException] syntax error, unexpected 'Array' (T_ARRAY)
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 20, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 20, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-09 21:46:24 Error: Fatal Error (1): Call to a member function getName() on a non-object in [C:\xampp\htdocs\testwing\app\Lib\X12Parser\X12Parser.php, line 115]
+2014-04-09 21:46:24 Error: [FatalErrorException] Call to a member function getName() on a non-object
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 115)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 115, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 115, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-10 13:02:46 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 1691075 bytes) in [C:\xampp\htdocs\testwing\lib\Cake\Utility\Debugger.php, line 609]
+2014-04-10 13:02:46 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 1691075 bytes)
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\xampp\htdocs...', 609)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\xampp\htdocs...', 609, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\xampp\htdocs...', 609, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-10 14:52:01 Error: Fatal Error (1): Call to undefined method Transaction::saveAll() in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 68]
+2014-04-10 14:52:01 Error: [FatalErrorException] Call to undefined method Transaction::saveAll()
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-10 15:04:44 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 15:07:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 15:09:48 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 15:11:27 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 15:14:43 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 15:14:53 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads/index
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 15:20:44 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 15:23:01 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 15:25:38 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 15:41:40 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(1079): PaginatorComponent->paginate(NULL, Array, Array)
+#8 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): Controller->paginate()
+#9 [internal function]: UploadsController->index()
+#10 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#13 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-04-10 15:42:09 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 15:59:16 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 16:00:50 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.editype_id' in 'on clause'
+Request URL: /testwing/uploads/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 16:01:06 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EdiType.edi_type_id' in 'on clause'
+Request URL: /testwing/uploads/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Upload`...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(upload), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\UploadsController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: UploadsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-10 21:04:41 Error: Fatal Error (1): Call to a member function exists() on a non-object in [C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php, line 129]
+2014-04-10 21:04:41 Error: [FatalErrorException] Call to a member function exists() on a non-object
+Request URL: /testwing/transactions/get_transactions_by_upload_id
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 129)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 129, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 129, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-10 21:04:47 Error: Fatal Error (1): Call to a member function exists() on a non-object in [C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php, line 129]
+2014-04-10 21:04:47 Error: [FatalErrorException] Call to a member function exists() on a non-object
+Request URL: /testwing/transactions/get_transactions_by_upload_id
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 129)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 129, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 129, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-10 21:26:01 Error: Fatal Error (4): syntax error, unexpected '?>', expecting ']' in [C:\xampp\htdocs\testwing\app\View\Users\dashboard_administrators.ctp, line 593]
+2014-04-10 21:26:01 Error: [FatalErrorException] syntax error, unexpected '?>', expecting ']'
+Request URL: /testwing/users/dashboard_administrators
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 593)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 593, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 593, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-10 21:30:25 Error: Fatal Error (1): Cannot use object of type upload as array in [C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php, line 150]
+2014-04-10 21:30:25 Error: [FatalErrorException] Cannot use object of type upload as array
+Request URL: /testwing/transactions/get_transactions_by_upload_id
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot use obje...', 'C:\xampp\htdocs...', 150)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot use obje...', 'C:\xampp\htdocs...', 150, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot use obje...', 'C:\xampp\htdocs...', 150, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-11 12:43:35 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /testwing/reports/edit/4
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-12 02:08:43 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /testwing/reports/edit/transaction_status_id
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-15 19:01:47 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /testwing/reports/edit/1
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-15 19:01:47 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /testwing/reports/edit/1
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-16 14:54:48 Error: Fatal Error (64): Cannot redeclare Comment::$belongsTo in [C:\xampp\htdocs\testwing\app\Model\Comment.php, line 63]
+2014-04-16 14:54:48 Error: [FatalErrorException] Cannot redeclare Comment::$belongsTo
+Request URL: /testwing/transactions/get_transactions_by_upload_id
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 63)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 63, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 63, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-16 18:23:02 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /testwing/reports/edit/1
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-16 19:41:51 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'TransactionRejectionType.transaction__rejection_type_id' in 'field list'
+Request URL: /testwing/comments/edit/1
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Transac...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Transac...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1339): DboSource->fetchAll('SELECT `Transac...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1201): DboSource->fetchAssociated(Object(Comment), 'SELECT `Transac...', Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1112): DboSource->queryAssociation(Object(Comment), Object(TransactionRejectionType), 'hasMany', 'TransactionReje...', Array, Array, true, Array, 0, Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Comment), Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('first', Array)
+#8 C:\xampp\htdocs\testwing\app\Controller\CommentsController.php(82): Model->find('first', Array)
+#9 [internal function]: CommentsController->edit('1')
+#10 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(CommentsController), Array)
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(CommentsController), Object(CakeRequest), Object(CakeResponse))
+#13 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-04-16 19:42:44 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'TransactionRejectionType.transaction_rejection_type_id' in 'field list'
+Request URL: /testwing/comments/edit/1
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Transac...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Transac...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1339): DboSource->fetchAll('SELECT `Transac...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1201): DboSource->fetchAssociated(Object(Comment), 'SELECT `Transac...', Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1112): DboSource->queryAssociation(Object(Comment), Object(TransactionRejectionType), 'hasMany', 'TransactionReje...', Array, Array, true, Array, 0, Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Comment), Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('first', Array)
+#8 C:\xampp\htdocs\testwing\app\Controller\CommentsController.php(82): Model->find('first', Array)
+#9 [internal function]: CommentsController->edit('1')
+#10 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(CommentsController), Array)
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(CommentsController), Object(CakeRequest), Object(CakeResponse))
+#13 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-04-16 20:54:20 Error: [MissingControllerException] Controller class ReportsController could not be found.
+Exception Attributes: array (
+  'class' => 'ReportsController',
+  'plugin' => NULL,
+)
+Request URL: /testwing/reports/set_tag_data
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-17 02:48:22 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /testwing/transactions/set_transaction_data
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT COUNT(*)...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Transaction), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('count', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2784): Model->find('count', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php(165): Model->exists()
+#8 [internal function]: TransactionsController->set_transaction_data()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactionsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-17 02:54:10 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /testwing/transactions/set_transaction_data
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT COUNT(*)...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Transaction), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('count', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2784): Model->find('count', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php(165): Model->exists(Object(stdClass))
+#8 [internal function]: TransactionsController->set_transaction_data()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactionsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-17 18:07:19 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '164' for key 'transaction_id'
+Request URL: /testwing/transactions/set_transaction_data
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('INSERT INTO `dc...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `dc...')
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(1832): DboSource->create(Object(TransactionRejection), Array, Array)
+#4 C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php(218): Model->save(Array)
+#5 [internal function]: TransactionsController->set_transaction_data()
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactionsController), Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-04-17 18:17:15 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '167' for key 'transaction_id'
+Request URL: /testwing/transactions/set_transaction_data
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('INSERT INTO `dc...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `dc...')
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(1832): DboSource->create(Object(TransactionRejection), Array, Array)
+#4 C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php(225): Model->save(Array)
+#5 [internal function]: TransactionsController->set_transaction_data()
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactionsController), Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-04-17 18:20:00 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '167' for key 'transaction_id'
+Request URL: /testwing/transactions/set_transaction_data
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('INSERT INTO `dc...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `dc...')
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(1832): DboSource->create(Object(TransactionRejection), Array, Array)
+#4 C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php(224): Model->save(Array)
+#5 [internal function]: TransactionsController->set_transaction_data()
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactionsController), Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-04-17 18:23:22 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '167' for key 'transaction_id'
+Request URL: /testwing/transactions/set_transaction_data
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('INSERT INTO `dc...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `dc...')
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(1832): DboSource->create(Object(TransactionRejection), Array, Array)
+#4 C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php(224): Model->save(Array)
+#5 [internal function]: TransactionsController->set_transaction_data()
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactionsController), Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-04-17 18:25:13 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '167' for key 'transaction_id'
+Request URL: /testwing/transactions/set_transaction_data
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('INSERT INTO `dc...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `dc...')
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(1832): DboSource->create(Object(TransactionRejection), Array, Array)
+#4 C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php(225): Model->save(Array)
+#5 [internal function]: TransactionsController->set_transaction_data()
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactionsController), Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-04-17 18:32:27 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '167' for key 'transaction_id'
+Request URL: /testwing/transactions/set_transaction_data
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('INSERT INTO `dc...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `dc...')
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(1832): DboSource->create(Object(TransactionRejection), Array, Array)
+#4 C:\xampp\htdocs\testwing\app\Controller\TransactionsController.php(219): Model->save(Array)
+#5 [internal function]: TransactionsController->set_transaction_data()
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactionsController), Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-04-19 19:41:48 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 146]
+2014-04-19 19:41:48 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 146)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 146, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 146, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:19:27 Error: Fatal Error (64): Only variables can be passed by reference in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 141]
+2014-04-21 00:19:27 Error: [FatalErrorException] Only variables can be passed by reference
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Only variables ...', 'C:\xampp\htdocs...', 141)
+#1 [internal function]: ErrorHandler::handleError(64, 'Only variables ...', 'C:\xampp\htdocs...', 141, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Only variables ...', 'C:\xampp\htdocs...', 141, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:32:12 Error: Fatal Error (64): Only variables can be passed by reference in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 141]
+2014-04-21 00:32:12 Error: [FatalErrorException] Only variables can be passed by reference
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Only variables ...', 'C:\xampp\htdocs...', 141)
+#1 [internal function]: ErrorHandler::handleError(64, 'Only variables ...', 'C:\xampp\htdocs...', 141, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Only variables ...', 'C:\xampp\htdocs...', 141, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:38:56 Error: Fatal Error (4): syntax error, unexpected 'array_push' (T_STRING) in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 144]
+2014-04-21 00:38:56 Error: [FatalErrorException] syntax error, unexpected 'array_push' (T_STRING)
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 144)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 144, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 144, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:39:29 Error: Fatal Error (64): Only variables can be passed by reference in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 143]
+2014-04-21 00:39:29 Error: [FatalErrorException] Only variables can be passed by reference
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Only variables ...', 'C:\xampp\htdocs...', 143)
+#1 [internal function]: ErrorHandler::handleError(64, 'Only variables ...', 'C:\xampp\htdocs...', 143, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Only variables ...', 'C:\xampp\htdocs...', 143, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:40:55 Error: Fatal Error (64): Only variables can be passed by reference in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 145]
+2014-04-21 00:40:55 Error: [FatalErrorException] Only variables can be passed by reference
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Only variables ...', 'C:\xampp\htdocs...', 145)
+#1 [internal function]: ErrorHandler::handleError(64, 'Only variables ...', 'C:\xampp\htdocs...', 145, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Only variables ...', 'C:\xampp\htdocs...', 145, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:42:11 Error: Fatal Error (64): Only variables can be passed by reference in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 147]
+2014-04-21 00:42:11 Error: [FatalErrorException] Only variables can be passed by reference
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Only variables ...', 'C:\xampp\htdocs...', 147)
+#1 [internal function]: ErrorHandler::handleError(64, 'Only variables ...', 'C:\xampp\htdocs...', 147, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Only variables ...', 'C:\xampp\htdocs...', 147, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:43:22 Error: Fatal Error (64): Only variables can be passed by reference in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 148]
+2014-04-21 00:43:22 Error: [FatalErrorException] Only variables can be passed by reference
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Only variables ...', 'C:\xampp\htdocs...', 148)
+#1 [internal function]: ErrorHandler::handleError(64, 'Only variables ...', 'C:\xampp\htdocs...', 148, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Only variables ...', 'C:\xampp\htdocs...', 148, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:45:45 Error: Fatal Error (64): Only variables can be passed by reference in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 148]
+2014-04-21 00:45:45 Error: [FatalErrorException] Only variables can be passed by reference
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Only variables ...', 'C:\xampp\htdocs...', 148)
+#1 [internal function]: ErrorHandler::handleError(64, 'Only variables ...', 'C:\xampp\htdocs...', 148, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Only variables ...', 'C:\xampp\htdocs...', 148, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:50:07 Error: Fatal Error (64): Only variables can be passed by reference in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 178]
+2014-04-21 00:50:07 Error: [FatalErrorException] Only variables can be passed by reference
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Only variables ...', 'C:\xampp\htdocs...', 178)
+#1 [internal function]: ErrorHandler::handleError(64, 'Only variables ...', 'C:\xampp\htdocs...', 178, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Only variables ...', 'C:\xampp\htdocs...', 178, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:52:03 Error: Fatal Error (64): Only variables can be passed by reference in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 176]
+2014-04-21 00:52:03 Error: [FatalErrorException] Only variables can be passed by reference
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Only variables ...', 'C:\xampp\htdocs...', 176)
+#1 [internal function]: ErrorHandler::handleError(64, 'Only variables ...', 'C:\xampp\htdocs...', 176, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Only variables ...', 'C:\xampp\htdocs...', 176, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:52:32 Error: Fatal Error (1): Cannot access private property Reveal::$tenA_list in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 76]
+2014-04-21 00:52:32 Error: [FatalErrorException] Cannot access private property Reveal::$tenA_list
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access p...', 'C:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access p...', 'C:\xampp\htdocs...', 76, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access p...', 'C:\xampp\htdocs...', 76, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 00:54:24 Error: Fatal Error (1): Cannot access private property Reveal::$tenA_list in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 76]
+2014-04-21 00:54:24 Error: [FatalErrorException] Cannot access private property Reveal::$tenA_list
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access p...', 'C:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access p...', 'C:\xampp\htdocs...', 76, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access p...', 'C:\xampp\htdocs...', 76, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 01:28:11 Error: Fatal Error (64): Only variables can be passed by reference in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 148]
+2014-04-21 01:28:11 Error: [FatalErrorException] Only variables can be passed by reference
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Only variables ...', 'C:\xampp\htdocs...', 148)
+#1 [internal function]: ErrorHandler::handleError(64, 'Only variables ...', 'C:\xampp\htdocs...', 148, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Only variables ...', 'C:\xampp\htdocs...', 148, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 12:02:32 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\testwing\app\Lib\Reveal\DO_Report.php, line 21]
+2014-04-21 12:02:32 Error: [FatalErrorException] Cannot access empty property
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 21, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 21, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 12:48:06 Error: Fatal Error (4): syntax error, unexpected '.' in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 58]
+2014-04-21 12:48:06 Error: [FatalErrorException] syntax error, unexpected '.'
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 58)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 58, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 58, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 14:18:42 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 291]
+2014-04-21 14:18:42 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 291)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 291, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 291, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 15:40:53 Error: Fatal Error (64): Can't use function return value in write context in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 194]
+2014-04-21 15:40:53 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use funct...', 'C:\xampp\htdocs...', 194)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', 'C:\xampp\htdocs...', 194, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', 'C:\xampp\htdocs...', 194, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 18:43:52 Error: Fatal Error (1): Cannot access private property Reveal::$big_list in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 76]
+2014-04-21 18:43:52 Error: [FatalErrorException] Cannot access private property Reveal::$big_list
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access p...', 'C:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access p...', 'C:\xampp\htdocs...', 76, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access p...', 'C:\xampp\htdocs...', 76, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 18:44:33 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 76]
+2014-04-21 18:44:33 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 76, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 76, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 18:45:26 Error: Fatal Error (1): Call to undefined function getRevealErrors() in [C:\xampp\htdocs\testwing\app\Controller\UploadsController.php, line 76]
+2014-04-21 18:45:26 Error: [FatalErrorException] Call to undefined function getRevealErrors()
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 76, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 76, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 18:50:15 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 30]
+2014-04-21 18:50:15 Error: [FatalErrorException] Cannot access empty property
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 30, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 30, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 19:08:03 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 12563582 bytes) in [C:\xampp\htdocs\testwing\lib\Cake\Utility\Debugger.php, line 561]
+2014-04-21 19:08:03 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 12563582 bytes)
+Request URL: /testwing/uploads/add
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\xampp\htdocs...', 561)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\xampp\htdocs...', 561, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', 'C:\xampp\htdocs...', 561, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-21 19:35:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Comment.comment_type_id' in 'on clause'
+Request URL: /testwing/comments/
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Comment...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Comment...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Comment...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Comment), Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 C:\xampp\htdocs\testwing\app\Controller\CommentsController.php(25): PaginatorComponent->paginate()
+#8 [internal function]: CommentsController->index()
+#9 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(CommentsController), Array)
+#10 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(CommentsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2014-04-21 19:42:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CommentType.comment_type_id' in 'field list'
+Request URL: /testwing/comments/edit/1
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Comment...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Comment...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1339): DboSource->fetchAll('SELECT `Comment...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1201): DboSource->fetchAssociated(Object(Comment), 'SELECT `Comment...', Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1112): DboSource->queryAssociation(Object(Comment), Object(CommentType), 'hasMany', 'CommentType', Array, Array, true, Array, 0, Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Comment), Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('first', Array)
+#8 C:\xampp\htdocs\testwing\app\Controller\CommentsController.php(82): Model->find('first', Array)
+#9 [internal function]: CommentsController->edit('1')
+#10 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(CommentsController), Array)
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(CommentsController), Object(CakeRequest), Object(CakeResponse))
+#13 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-04-21 19:45:30 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CommentType.comment_type_id' in 'field list'
+Request URL: /testwing/comments/edit/1
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('SELECT `Comment...', Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('SELECT `Comment...', Array, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1339): DboSource->fetchAll('SELECT `Comment...', false)
+#4 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1201): DboSource->fetchAssociated(Object(Comment), 'SELECT `Comment...', Array)
+#5 C:\xampp\htdocs\testwing\lib\Cake\Model\Datasource\DboSource.php(1112): DboSource->queryAssociation(Object(Comment), Object(CommentType), 'hasMany', 'CommentType', Array, Array, true, Array, 0, Array)
+#6 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2902): DboSource->read(Object(Comment), Array)
+#7 C:\xampp\htdocs\testwing\lib\Cake\Model\Model.php(2874): Model->_readDataSource('first', Array)
+#8 C:\xampp\htdocs\testwing\app\Controller\CommentsController.php(82): Model->find('first', Array)
+#9 [internal function]: CommentsController->edit('1')
+#10 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(CommentsController), Array)
+#11 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(CommentsController), Object(CakeRequest), Object(CakeResponse))
+#13 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-04-21 20:20:13 Error: [NotFoundException] Invalid comment
+Request URL: /testwing/comments/edit/Error
+Stack Trace:
+#0 [internal function]: CommentsController->edit('Error')
+#1 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(CommentsController), Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(CommentsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-04-21 20:23:54 Error: [NotFoundException] Invalid comment
+Request URL: /testwing/comments/edit/undefined
+Stack Trace:
+#0 [internal function]: CommentsController->edit('undefined')
+#1 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(CommentsController), Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(CommentsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-04-21 20:24:15 Error: [NotFoundException] Invalid comment
+Request URL: /testwing/comments/edit/undefined
+Stack Trace:
+#0 [internal function]: CommentsController->edit('undefined')
+#1 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(CommentsController), Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(CommentsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-04-23 14:29:50 Error: [MissingActionException] Action RevealController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'RevealController',
+  'action' => 'view',
+)
+Request URL: /testwing/reveal/view/SPE4A413M1078P00001
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(RevealController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-23 14:32:36 Error: [MissingViewException] View file "C:\xampp\htdocs\testwing\app\View\Reveal\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\testwing\\app\\View\\Reveal\\view.ctp',
+)
+Request URL: /testwing/reveal/view/SPE4A413M1078P00001
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(RevealController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-04-23 14:34:16 Error: [MissingViewException] View file "C:\xampp\htdocs\testwing\app\View\Reveal\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\testwing\\app\\View\\Reveal\\view.ctp',
+)
+Request URL: /testwing/reveal/view/SPE4A413M1078P00001
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\testwing\lib\Cake\Controller\Controller.php(952): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\testwing\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(RevealController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\testwing\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-04-23 15:29:46 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\testwing\app\Controller\RevealController.php, line 18]
+2014-04-23 15:29:46 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /testwing/reveal/view?folder=C%3A%5Cxampp%5Chtdocs%5Ctestwing%5Capp%5Cwebroot%5Cfiles%5Cuploads%5Ctest_batches%5C5357d116-4a9c-4394-9871-0294fe516296&id=SPE4A413M1078P00001
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 18, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 18, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-23 15:45:24 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 506]
+2014-04-23 15:45:24 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /testwing/reveal/view?folder=C%3A%5Cxampp%5Chtdocs%5Ctestwing%5Capp%5Cwebroot%5Cfiles%5Cuploads%5Ctest_batches%5C5357d116-4a9c-4394-9871-0294fe516296&id=SPE4A413M1078P00001
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 506)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 506, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 506, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-23 15:53:20 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 423]
+2014-04-23 15:53:20 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /testwing/reveal/view?folder=C%3A%5Cxampp%5Chtdocs%5Ctestwing%5Capp%5Cwebroot%5Cfiles%5Cuploads%5Ctest_batches%5C5357d116-4a9c-4394-9871-0294fe516296&id=SPE4A413M1078P00001
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 423)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 423, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 423, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-23 15:59:03 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 367]
+2014-04-23 15:59:03 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /testwing/reveal/view?folder=C%3A%5Cxampp%5Chtdocs%5Ctestwing%5Capp%5Cwebroot%5Cfiles%5Cuploads%5Ctest_batches%5C5357d116-4a9c-4394-9871-0294fe516296&id=SPE4A413M1078P00001
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 367)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 367, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 367, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-23 20:13:31 Error: Fatal Error (1): Cannot break/continue 3 levels in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 374]
+2014-04-23 20:13:31 Error: [FatalErrorException] Cannot break/continue 3 levels
+Request URL: /testwing/reveal/view?folder=C%3A%5Cxampp%5Chtdocs%5Ctestwing%5Capp%5Cwebroot%5Cfiles%5Cuploads%5Ctest_batches%5C5357d116-4a9c-4394-9871-0294fe516296&id=SPM1C113D1025000902
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot break/co...', 'C:\xampp\htdocs...', 374)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot break/co...', 'C:\xampp\htdocs...', 374, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot break/co...', 'C:\xampp\htdocs...', 374, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-23 20:13:45 Error: Fatal Error (1): Cannot break/continue 2 levels in [C:\xampp\htdocs\testwing\app\Lib\Reveal\Reveal.php, line 374]
+2014-04-23 20:13:45 Error: [FatalErrorException] Cannot break/continue 2 levels
+Request URL: /testwing/reveal/view?folder=C%3A%5Cxampp%5Chtdocs%5Ctestwing%5Capp%5Cwebroot%5Cfiles%5Cuploads%5Ctest_batches%5C5357d116-4a9c-4394-9871-0294fe516296&id=SPM1C113D1025000902
+Stack Trace:
+#0 C:\xampp\htdocs\testwing\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot break/co...', 'C:\xampp\htdocs...', 374)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot break/co...', 'C:\xampp\htdocs...', 374, Array)
+#2 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot break/co...', 'C:\xampp\htdocs...', 374, Array)
+#3 C:\xampp\htdocs\testwing\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

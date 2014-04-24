@@ -1,0 +1,9 @@
+	$$CH    UNMA010G                    bNYASTD000LL   Z   N                        XNMADD05UNMA01  7704
+$$CCH    UNMA010GDb                    20141062014105T192858NNNNNNN HS16        XNMADD05UNMA01  7704
+i
+REPORT NUMBER  UNMA010G                DATE  14 APR 16                   CAO CODE                 PAGE  0001
+ACO CD:                                             REJECTED ACO MODIFICATIONS                          *** ACCEPTABLE ERRORS
+
+  NEGATIVE  REPORT
+
+

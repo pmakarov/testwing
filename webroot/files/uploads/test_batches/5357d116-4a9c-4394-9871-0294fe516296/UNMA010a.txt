@@ -1,0 +1,2325 @@
+	$$CH    UNMA010A                    bNYASTD000LL   Z   N                        XNMADD05UNMA01  7704
+$$CCH    UNMA010ADb                    20141062014105T192858NNNNNNN HS16        XNMADD05UNMA01  7704
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0001
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+                                             ACT   PIIN    BACKLOG    REOPEN                                     ERRORS
+FIC       PIIN         SPIIN     ORG   RGS   CD     FT     AGE DTE    SEC NO
+NBT   SPRTA112G0006   U35001            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPE7L414M1612   P00002            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPM5L509D0016   002101            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPE7L014V2729   P00001            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPE7M014M3042   P00001            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPE4A614MC351   P00001            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPM7LX11D0157   83PH01            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPE4A713M2263   P00001            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPE4A614C0172   P00001            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPE4A614M8681   P00001            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPE7L514M1382   P00002            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPE4A613D0186   002101            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+NBT   SPE4A714M7587   P00001            98                14 APR 16                             012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0002
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM4AX13D9401   060501     ED      98           E002
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E002                15 MAY 15                            C9  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A5       S2207A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          58828                 C
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           HQ0337                                                    T
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000     9                       6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   5330011802768            00 EA        2020.20000      404040.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     GASKET
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3211          14 SEP 02  00000200    BX                                              NO ERROR MESSAGE FOR
+                                                                                                    NO ERROR MESSAGE FOR
+                                                                                                    NO ERROR MESSAGE FOR
+                                                                                                    NO ERROR MESSAGE FOR
+                                                                                                    NO ERROR MESSAGE FOR
+                                                                                                    NO ERROR MESSAGE FOR
+                                                                                                    NO ERROR MESSAGE FOR
+                                                                                                    NO ERROR MESSAGE FOR
+                                                                                                    NO ERROR MESSAGE FOR
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0003
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM4AX13D9401   060501     ED      98           E002
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3211          15 MAY 15  00000200    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0004
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPRTA112G0006   U35001             98           D002
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D002                U                      VQ1 VC0       9E  A  1  2 S U3              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7M1       S3605A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S2207A          07482                 C
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           HQ0337          0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000     9
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0005
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM5E414M0109   P00001     JR      98           D004
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D004                14 JUN 12                          U C9  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPM5E1       SCN01A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          56161                 L
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                             6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   5340011785427            00 EA          37.43000       76731.50                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     CLAMP ASSEM                                                D
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3121          14 APR 18  00002050    BX                                              DELETE  NBG
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0006
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM5E414M0109   P00001     JR      98           D004
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SPM5E4          14 APR 18  00002050    BX
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SPM5E4          14 JUN 12  00002050    BX                                              ADD     NBG
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3121          14 JUN 12  00002050    BX                                          073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBG
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0007
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM4A111G0010   10J301     JF      98           C002
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  C002                14 JUN 11                            A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A5       S3605A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          72914                 C
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         T
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                             6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   3110004058579            00 EA          60.00000         480.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     BEARING
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    DTUB00          14 APR 11  00000008    BX         PTUB5431282413
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0008
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM4A111G0010   10J301     JF      98           C002
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    DTUB00          14 JUN 11  00000008    BX         PTUB5431282413                   067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0009
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7L413C0012   P00004     SC      98           A002
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  A002                15 DEC 05                            C9  A                         001 DUP SCHED DATA IN ABSTR
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPM7L1       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          06MA8                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                             6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0002   1005012192402    00000862CR EA          11.90000       10257.80CR               841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0002     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0002    SPM7L4          13 DEC 22  00000138    BX                                          006 DUPLICATE RECORD
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0010
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7L413C0012   P00004     SC      98           A002
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0003   1005012192402            CR EA          12.50000         900.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0003     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0003    SPM7L4          13 DEC 22  00001500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0003    SPM7L4          14 JUL 13  00001500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0004   1005012192402            CR EA          12.50000        1500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0004     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0004    SPM7L4          14 JAN 21  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0004    SPM7L4          14 AUG 12  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0011
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7L413C0012   P00004     SC      98           A002
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0005   1005012192402            CR EA          12.50000         300.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0005     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0005    SPM7L4          14 FEB 20  00000500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0005    SPM7L4          14 SEP 12  00000500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0006   1005012192402            CR EA          12.50000        1200.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0006     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0006    SPM7L4          14 FEB 20  00002000    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0006    SPM7L4          14 SEP 11  00002000    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0012
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7L413C0012   P00004     SC      98           A002
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0007   1005012192402            CR EA          12.50000        1500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0007     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0007    SPM7L4          14 MAR 22  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0007    SPM7L4          14 NOV 10  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0008   1005012192402            CR EA          12.50000         480.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0008     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0008    SPM7L4          14 APR 21  00000800    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0008    SPM7L4          14 DEC 10  00000800    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0013
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7L413C0012   P00004     SC      98           A002
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0009   1005012192402            CR EA          12.50000        1020.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0009     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0009    SPM7L4          14 APR 21  00001700    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0009    SPM7L4          14 DEC 10  00001700    BX                                          067 * UNMATCHED CHANGE TRAN
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0010   1005012192402            CR EA          12.50000        1500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0010     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0010    SPM7L4          14 MAY 21  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0010    SPM7L4          15 JAN 09  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0014
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7L413C0012   P00004     SC      98           A002
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0011   1005012192402            CR EA          12.50000        1020.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0011     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0011    SPM7L4          14 JUN 20  00001700    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0011    SPM7L4          15 FEB 08  00001700    BX                                          067 * UNMATCHED CHANGE TRAN
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0012   1005012192402            CR EA          12.40000        1500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0012     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0012    SPM7L4          14 JUL 20  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0012    SPM7L4          15 MAR 10  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0015
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7L413C0012   P00004     SC      98           A002
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0013   1005012192402            CR EA          12.40000        1500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0013     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0013    SPM7L4          14 AUG 19  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0013    SPM7L4          15 MAY 09  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0014   1005012192402            CR EA          12.40000        1500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0014     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0014    SPM7L4          14 SEP 18  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0014    SPM7L4          15 JUN 08  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0016
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7L413C0012   P00004     SC      98           A002
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0015   1005012192402            CR EA          12.40000        1500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0015     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0015    SPM7L4          14 OCT 18  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0015    SPM7L4          15 JUL 08  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0016   1005012192402            CR EA          12.40000        1500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0016     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0016    SPM7L4          14 NOV 17  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0016    SPM7L4          15 AUG 07  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0017
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7L413C0012   P00004     SC      98           A002
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0017   1005012192402            CR EA          12.40000        1500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0017     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0017    SPM7L4          14 DEC 17  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0017    SPM7L4          15 OCT 06  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0018   1005012192402            CR EA          12.40000        1500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0018     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0018    SPM7L4          15 JAN 16  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0018    SPM7L4          15 NOV 05  00002500    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0018
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7L413C0012   P00004     SC      98           A002
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0019   1005012192402            CR EA          12.40000        1020.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0019     TRIGGER SUB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0019    SPM7L4          15 FEB 15  00001700    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0019    SPM7L4          15 DEC 05  00001700    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0019
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE7L414M1612   P00002             98           D006
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D006                U                      SOD W71     U 9E  A  1  2 S ZZ              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7L4       SCN01A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 SCN01A          L05D5                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           HQ0337          0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000     9
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   N                00000010CR EA         475.00000        4750.00CR               073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     TRACK,SKATE                                                                   073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                                                                                  DELETE  NAL
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0020
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE7L414M1612   P00002             98           D006
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 APR 28  00000010    BX                                          073 * UNMATCHED DELETE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0021
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM5L509D0016   002101             98           D008
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D008                U                      JB5 JCH       9E  A  1  2 S TZ              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPM5E1       S2305A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S2305A          01685                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   N                00000020CR EA          58.58000        1171.60CR               073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     BUMPER                                                     D                  073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                                                                                  DELETE  NAL
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0022
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM5L509D0016   002101             98           D008
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          13 MAR 27  00000020    BX                                          073 * UNMATCHED DELETE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0023
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM5L509D0016   002201     JJ      98           D010
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D010                14 JAN 14                            C9  A                         C02 STR-CAR-SEC-NO
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE5EN       S2305A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          01685                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         T
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                             2
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   N                00000020CR EA          58.58000        1171.60CR               272 F/C-INV DEL,QTY SHPD NOT ZERO
+                                                                                                073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     BUMPER                                                     D                  073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        3                        DD                                                    B84 STR-ACRN
+                                                                                                692 R/D-NAL-NAC/PAC ACRN
+                                                                                                    DELETE  NAL
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0024
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM5L509D0016   002201     JJ      98           D010
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 JAN 14  00000020    BX                                          676 R/D-NAG/PAG-NAC/PAC-ACRN
+                                                                                                073 * UNMATCHED DELETE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0025
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A613MF620   P00002     JF      98           E004
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E004                14 MAY 10                          U 9E  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A6       S3605A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          5N063                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         T
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                             6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   4010016072973            CR EA         861.40000        8614.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     WIRE ROPE A
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 JAN 20  00000010    BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0026
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A613MF620   P00002     JF      98           E004
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 MAY 10  00000010    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0027
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713M2123   P00002     DG      98           B002
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B002                14 OCT 20                          U C9  A                         002 DUP LINE ITEM DATA IN ABSTR
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A7       S3306A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          7U740                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                             6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   1560016022866    00000025   EA         397.00000        9925.00                     DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     DOOR,AIR                                         S    S    D                      DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0028
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713M2123   P00002     DG      98           B002
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 OCT 20  00000025    BX
+                                        P A        SERVICE
+      CLIN                              Q C         COMPL      TOTAL ITEM      PROJ
+FIC   ELIN    DESCRIPTION OF SERVICES   A C  ACR    DATE         AMOUNT        MNGR
+NBH  0002    Government First Article        AA  U                     0.00                     681 R/D-NAH/PAH-NAC/PAC AT ACRN
+                                                                                                006 DUPLICATE RECORD
+                                                                                                073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBH
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0002        3                 AA                                                           B85 STR-INSP/ACCPT CODE
+                                                                                                692 R/D-NAL-NAC/PAC ACRN
+                                                                                                    DELETE  NAL
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0029
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE5E914M0124   P00001     JR      98           C004
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  C004                14 APR 30                          U C9  B
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE5E9       SCN01A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          L7134                 L
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           HQ0337                                                    TD
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T             R     6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   5315012193117               EA           6.25000         631.25                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     PIN,STRAIGH
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W62G2T          13 DEC 26  00000101    BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0030
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE5E914M0124   P00001     JR      98           C004
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W62G2T          14 APR 30  00000101    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0031
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM1C113D1025   000902     JF      98           C006
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  C006                14 DEC 26                            C9  A                         001 DUP SCHED DATA IN ABSTR
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE1C1       S3605A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          01FK6                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         FT
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                             6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   8415010333518    00001397   ST          23.99000       33514.03                 067 * UNMATCHED CHANGE TRAN
+                                                                                                841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     GLOVE SET,C                                                                   B12 STR-FREE ON-BOARD SITE
+                                                                                                417 STR-PQA SITE
+                                                                                                442 STR-ACPT SITE
+                                                                                                067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0032
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM1C113D1025   000902     JF      98           C006
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        3                 BX     SS
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 JUL 28  00002880    BX                                          006 DUPLICATE RECORD
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0006   8415010333518    00001397CR ST          23.99000       33514.03CR               067 * UNMATCHED CHANGE TRAN
+                                                                                                840 BAL-U/P X ORD QTY=TOT-ITM-AMT
+                                                                                                841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0006     GLOVE SET,C                                                                   B12 STR-FREE ON-BOARD SITE
+                                                                                                417 STR-PQA SITE
+                                                                                                442 STR-ACPT SITE
+                                                                                                067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0006        3                 BX     SS
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0006    W25G1U          14 DEC 26  00000086    BX                                          006 DUPLICATE RECORD
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0007   8415010333520    00000044   ST          23.99000        1055.56                 067 * UNMATCHED CHANGE TRAN
+                                                                                                841 BAL-ORD-QTY-(CLIN/ELIN)
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0033
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM1C113D1025   000902     JF      98           C006
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0007     GLOVE SET,C                                                                   B12 STR-FREE ON-BOARD SITE
+                                                                                                417 STR-PQA SITE
+                                                                                                442 STR-ACPT SITE
+                                                                                                067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0007        3                 BX     SS
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0007    W25G1U          14 JUL 28  00002160    BX                                          006 DUPLICATE RECORD
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0012   8415010333520    00000044CR ST          23.99000        1055.56CR               067 * UNMATCHED CHANGE TRAN
+                                                                                                840 BAL-U/P X ORD QTY=TOT-ITM-AMT
+                                                                                                841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0012     GLOVE SET,C                                                                   B12 STR-FREE ON-BOARD SITE
+                                                                                                417 STR-PQA SITE
+                                                                                                442 STR-ACPT SITE
+                                                                                                067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0012        3                 BX     SS
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0034
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM1C113D1025   000902     JF      98           C006
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0012    W25G1U          14 DEC 26  00002072    BX                                          006 DUPLICATE RECORD
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0035
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A613C0029   P00002     JF      98           D012
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D012                14 APR 24                            A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A6       S3605A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          3BXG8                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         T
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                 G           6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   5995013048149            CR EA         945.33000      155034.12                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     CORD ASSEMB
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 MAR 13  00000164    BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0036
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A613C0029   P00002     JF      98           D012
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 APR 24  00000164    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0037
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE7L014V2729   P00001             98           A004
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  A004                U                      DG3 DG5     U 9E  A  1  2 S ZZ              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7L0       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S3309A          1N108                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   N                00000002CR EA        1895.00000        3790.00CR               073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     ROD SWIVEL                                                                    073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                                                                                  DELETE  NAL
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0038
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE7L014V2729   P00001             98           A004
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 APR 24  00000002    BX                                          073 * UNMATCHED DELETE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0039
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE7M014M3042   P00001             98           B004
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B004                U                      JE4 JAG     U 9E  A  1  2 S ZZ              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7M0       S2305A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S2305A          6K404                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   N                00000001CR EA         180.55000         180.55CR               073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     PACKING,PRE                                                                   073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                                                                                  DELETE  NAL
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0040
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE7M014M3042   P00001             98           B004
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    N4523A          14 JUL 02  00000001    BX         N4523A40311318                   073 * UNMATCHED DELETE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0041
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713MB443   P00001     DB      98           C008
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  C008                16 JAN 20                          U A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A7       S2206A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          57488                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TSFW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                             6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   2840008323302            CR EA        2390.00000       19120.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     SEAL,METALL
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 MAY 01  00000008    BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0042
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713MB443   P00001     DB      98           C008
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          16 JAN 20  00000008    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                        P A        SERVICE
+      CLIN                              Q C         COMPL      TOTAL ITEM      PROJ
+FIC   ELIN    DESCRIPTION OF SERVICES   A C  ACR    DATE         AMOUNT        MNGR
+NBH  0002    Government First Article        AA  U                     0.00
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0043
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A613MM344   P00001     SC      98           E008
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E008                15 JUN 03                          U A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A6       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          65780                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TSW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T                   6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   3120013342931            CR EA         467.50000       71060.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     BEARING,PLA
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 JUN 23  00000152    BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0044
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A613MM344   P00001     SC      98           E008
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          15 JUN 03  00000152    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                        P A        SERVICE
+      CLIN                              Q C         COMPL      TOTAL ITEM      PROJ
+FIC   ELIN    DESCRIPTION OF SERVICES   A C  ACR    DATE         AMOUNT        MNGR
+NBH  0003    Production Lot Testing (G       AA  U                     0.00                     417 STR-PQA SITE
+                                                                                                442 STR-ACPT SITE
+                                                                                                681 R/D-NAH/PAH-NAC/PAC AT ACRN
+                                                                                                    ADD     NBH
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0003        3                 AA     SS                                                    692 R/D-NAL-NAC/PAC ACRN
+                                                                                                    ADD     NAL
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0045
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A614MC351   P00001             98           B008
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B008                U                      DG3 DG5     U 9E  A  1  2 S TY              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A6       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S3309A          58985                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   N                00000007CR PR         142.00000           0.00                 073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     BEARING,BAL                                                                   073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                                                                                  DELETE  NAL
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0046
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A614MC351   P00001             98           B008
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 MAY 19  00000007    BX                                          073 * UNMATCHED DELETE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0047
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7LX11D0157   78HL01     SE      98           B010
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B010                14 JUL 15                            C9  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7L1       S3101A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          79343                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         T
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                       R     6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   2610011625719            CR EA          84.86000        4243.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     TIRE,PNEUMA
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    DEGR00          14 FEB 10  00000050    BX         DEGR5N40270001
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0048
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7LX11D0157   78HL01     SE      98           B010
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    DEGR00          14 JUL 15  00000050    BX         DEGR5N40270001                   067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0049
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7LX11D0157   81RC01     SE      98           B012
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B012                14 JUL 14                            A4  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7L1       S3101A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          79343                 B            394 CONTRR-FACIL NOT A VALID CAGE
+
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         T
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                       R     6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   2610014835851            CR EA        9128.04000      374249.64                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     TIRE,PNEUMA
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W45G18          14 MAR 10  00000041    BX         W45G18405101IP
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0050
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7LX11D0157   81RC01     SE      98           B012
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W45G18          14 JUL 14  00000041    BX         W45G18405101IP                   067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0051
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7LX11D0157   83PH01             98           B014
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B014                14 MAY 13              SN5 WIV       9E  A  1  2 S UB              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7L1       S3101A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S3101A          79343                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   2630014426682            CR EA         216.23000       12325.11                 067 * UNMATCHED CHANGE TRAN
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     TIRE,SOLID                                                                    067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                 BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0052
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7LX11D0157   83PH01             98           B014
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    DISD00          14 MAR 14  00000057    BX         BISD5V40550008                   067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    DISD00          14 MAY 13  00000057    BX         BISD5V40550008                   067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0053
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A712M6460   P00001     SC      98           B016
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B016                13 JAN 25                          U A1  A                         001 DUP SCHED DATA IN ABSTR
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A7       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          4H3F4                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TSW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T                   6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   1650010118750    00000002CR EA         585.00000        1170.00CR               841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     PISTON,LOCK
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3210          13 JAN 25  00000007    BX                                          006 DUPLICATE RECORD
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0054
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713M1562   P00002     JJ      98           D014
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D014                14 OCT 21                          U A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A7       S2305A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          3B8L1                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TSW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T                   6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   1560015889183            CR EA        1245.00000       11205.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     COVER,ACCES
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3119          14 APR 23  00000009    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0055
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713M1562   P00002     JJ      98           D014
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3119          14 OCT 21  00000009    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0056
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713M2263   P00001             98           E010
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E010                14 JUL 14              JD3 JGB     U 9E  A  1  2 S TY              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A7       S2305A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S2305A          3B8L1                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   1560012000047            CR EA        2597.00000        7791.00                 067 * UNMATCHED CHANGE TRAN
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     PANEL,STRUC                                                                   067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                 BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0057
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713M2263   P00001             98           E010
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3119          13 MAY 28  00000003    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3119          14 JUL 14  00000003    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                        P A        SERVICE
+      CLIN                              Q C         COMPL      TOTAL ITEM      PROJ
+FIC   ELIN    DESCRIPTION OF SERVICES   A C  ACR    DATE         AMOUNT        MNGR
+NBH  0002    Government First Article        AA  U                     0.00                     067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0002        4                 AA
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0058
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7LA13M3763   P00001     JF      98           E012
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E012                13 NOV 20                          U A1  A                         001 DUP SCHED DATA IN ABSTR
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPM7L1       S3605A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          54991                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         STW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T                   6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   6130011140412    00000001CR EA        4865.00000        4865.00CR               841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     POWER SUPPL
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W62G2T          13 NOV 20  00000003    BX                                          006 DUPLICATE RECORD
+                                                                                                    DELETE  NBG
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0059
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7LA13M3763   P00001     JF      98           E012
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SPM7LA          13 NOV 20  00000002    BX                                          006 DUPLICATE RECORD
+                                                                                                068 *INVALID ADD TRANS
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0060
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A614M9563   P00001     DC      98           B018
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B018                14 AUG 05                          U A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A6       S0701A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          11599                 C
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TSFW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000             Y               6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   5365009543486            CR EA         280.81000         280.81                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     SPACER,RING
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    DTW700          14 JUN 18  00000001    BX         DTW75V33323367
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0061
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A614M9563   P00001     DC      98           B018
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    DTW700          14 AUG 05  00000001    BX         DTW75V33323367                   067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0062
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A613MR065   P00001     SC      98           E014
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E014                16 JAN 14                          U A1  A                         002 DUP LINE ITEM DATA IN ABSTR
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A7       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          65780                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TSFW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T                   6
+                                        P A        SERVICE
+      CLIN                              Q C         COMPL      TOTAL ITEM      PROJ
+FIC   ELIN    DESCRIPTION OF SERVICES   A C  ACR    DATE         AMOUNT        MNGR
+NBH  0002    Government First Article        AA  U                     0.00                     681 R/D-NAH/PAH-NAC/PAC AT ACRN
+                                                                                                006 DUPLICATE RECORD
+                                                                                                073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBH
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0002        3                 AA                                                           B85 STR-INSP/ACCPT CODE
+                                                                                                692 R/D-NAL-NAC/PAC ACRN
+                                                                                                    DELETE  NAL
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0063
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM4A712M5566   P00001     SC      98           B020
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B020                15 DEC 31                          U A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPM4A1       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          91750                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         STWF
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T                   6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   1560007836011            CR EA        6000.00000       18000.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     HOOD,CABIN
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 SEP 21  00000003    BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0064
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM4A712M5566   P00001     SC      98           B020
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          15 DEC 31  00000003    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                        P A        SERVICE
+      CLIN                              Q C         COMPL      TOTAL ITEM      PROJ
+FIC   ELIN    DESCRIPTION OF SERVICES   A C  ACR    DATE         AMOUNT        MNGR
+NBH  0002    Government First Article        AA  U                 25000.00                     417 STR-PQA SITE
+                                                                                                442 STR-ACPT SITE
+                                                                                                681 R/D-NAH/PAH-NAC/PAC AT ACRN
+                                                                                                    ADD     NBH
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0002        3                 AA                                                           B85 STR-INSP/ACCPT CODE
+                                                                                                692 R/D-NAL-NAC/PAC ACRN
+                                                                                                    ADD     NAL
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0065
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713M6270   P00003     SC      98           D016
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D016                15 DEC 31                          U A1  A                         002 DUP LINE ITEM DATA IN ABSTR
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A7       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          91750                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TSW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T                   6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   1560007836011            CR EA        5400.00000       21600.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     HOOD,CABIN
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          15 AUG 13  00000004    BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0066
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713M6270   P00003     SC      98           D016
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          15 DEC 31  00000004    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                        P A        SERVICE
+      CLIN                              Q C         COMPL      TOTAL ITEM      PROJ
+FIC   ELIN    DESCRIPTION OF SERVICES   A C  ACR    DATE         AMOUNT        MNGR
+NBH  0002    Government First Article        AA  U                     0.00                     417 STR-PQA SITE
+                                                                                                442 STR-ACPT SITE
+                                                                                                006 DUPLICATE RECORD
+                                                                                                067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0002        3                 AA                                                           B85 STR-INSP/ACCPT CODE
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0067
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A614C0172   P00001             98           C014
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  C014                U                      DG6 DJD       9E  A  1  2 S TY              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A6       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S3309A          27541                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0068
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM4A711MC976   P00002     JF      98           E016
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E016                15 MAR 03                          U A1  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPM4A1       S3605A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          75440                 C
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TWS
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T                   6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   2840008871489            CR EA        1900.00000       20900.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     MOUNT,ACTUA
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W62G2T          11 AUG 16  00000011    BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0069
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM4A711MC976   P00002     JF      98           E016
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W62G2T          15 MAR 03  00000011    BX                                          067 * UNMATCHED CHANGE TRAN
+
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0002   2840008871489            CR EA        1900.00000       85500.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0002     MOUNT,ACTUA
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0002    W25G1U          11 AUG 16  00000045    BX
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0002    W25G1U          15 MAR 03  00000045    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                        P A        SERVICE
+      CLIN                              Q C         COMPL      TOTAL ITEM      PROJ
+FIC   ELIN    DESCRIPTION OF SERVICES   A C  ACR    DATE         AMOUNT        MNGR
+NBH  9911    Production Lot Testing (G       AA  U                     0.00                     417 STR-PQA SITE
+                                                                                                442 STR-ACPT SITE
+                                                                                                681 R/D-NAH/PAH-NAC/PAC AT ACRN
+                                                                                                067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  9911        3                 AA                                                           B85 STR-INSP/ACCPT CODE
+                                                                                                692 R/D-NAL-NAC/PAC ACRN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0070
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A413M1078   P00001     JJ      98           B022
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  B022                14 JUL 14                          U C9  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A4       S2305A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          3B8L1                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TSW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                             6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   6150014303540            CR EA          34.61000       17408.83                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     CABLE ASSEM
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          13 OCT 28  00000503    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0071
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A413M1078   P00001     JJ      98           B022
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 JUL 14  00000503    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0072
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A614M4379   P00001     JR      98           D018
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D018                14 APR 30                          U C9  B
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A6       SCN01A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          L7134                 L
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           HQ0337                                                    TSD
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                       R     6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   3130006467336            CR EA         118.00000        1770.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     HOUSING,BEA
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    BJAB00          13 DEC 26  00000015    BX         BJAB5V30530112
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0073
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A614M4379   P00001     JR      98           D018
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    BJAB00          14 APR 30  00000015    BX         BJAB5V30530112                   067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0074
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A614M8681   P00001             98           C016
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  C016                14 JUN 08              DVE DMQ     U 9E  A  1  2 S TY              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A6       S3306A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S3306A          61125                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   5365015494189            CR EA         180.00000         180.00                 067 * UNMATCHED CHANGE TRAN
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     BUSHING,TAP                                                S                  067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                 BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0075
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A614M8681   P00001             98           C016
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    V23170          14 MAR 24  00000001    BX         V2317040166A12                   067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    V23170          14 JUN 08  00000001    BX         V2317040166A12                   067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0076
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE7L514M1382   P00002             98           E018
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E018                14 MAY 20              DG3 DG5     U 9E  A  1  2 S ZZ              001 DUP SCHED DATA IN ABSTR
+                                                                                                012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE7L5       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S3309A          58985                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   3020010443808    00000001CR EA         564.00000           0.00                 067 * UNMATCHED CHANGE TRAN
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     PULLEY,GROO                                                                   067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                 BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0077
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE7L514M1382   P00002             98           E018
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W62G2T          14 MAY 20  00000001    BX                                          006 DUPLICATE RECORD
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0078
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7MC13M7684   P00001     SC      98           C018
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  C018                14 OCT 31                          U A4  A
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPM7M1       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          40968                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         SFTW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T                   6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   6105012444803            CR EA        1392.00000       15312.00                 841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     MOTOR,ALTER
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 AUG 01  00000011    BX                                              DELETE  NBG
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0079
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPM7MC13M7684   P00001     SC      98           C018
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SPM7MC          14 AUG 01  00000011    BX
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SPM7MC          14 OCT 31  00000011    BX                                              ADD     NBG
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 OCT 31  00000011    BX                                          073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBG
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0080
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A613D0186   002101             98           E020
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E020                14 AUG 26              JM2 J3Z       9E  A  1  2 S TY              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A6       S3605A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S3605A          60038                 C
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   3110001005938            CR EA          13.92000        1322.40                 067 * UNMATCHED CHANGE TRAN
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     BEARING, RO                                                D                  067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                 BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0081
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A613D0186   002101             98           E020
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 AUG 26  00000095    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0082
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A714M7587   P00001             98           D022
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  D022                14 MAY 29              DG3 DG5     U 9E  A  1  2 S TY              012 *F/C-MOD/CORR/NET W/OUT BASIC
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A7       S3309A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                        9                 S3309A          58985                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9               0.00
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   1560011911910            CR EA         123.00000        1107.00                 067 * UNMATCHED CHANGE TRAN
+                                                                                                840 BAL-U/P X ORD QTY=TOT-ITM-AMT
+                                                                                                841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     FORMER,AIRC                                                                   067 * UNMATCHED CHANGE TRAN
+
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001        4                 BX
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0083
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A714M7587   P00001             98           D022
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 MAY 19  00000009    BX                                          067 * UNMATCHED CHANGE TRAN
+
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 MAY 29  00000009    BX                                          067 * UNMATCHED CHANGE TRAN
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0084
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A414M0692   P00003     DG      98           C020
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  C020                14 MAY 19                          U A1  A                         001 DUP SCHED DATA IN ABSTR
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A4       S3306A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          61125                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000                             6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   5342004533920    00000004CR EA           6.15000          24.60CR               841 BAL-ORD-QTY-(CLIN/ELIN)
+
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     CAP PROTECT
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    SW3113          14 MAY 19  00000200    BX                                          006 DUPLICATE RECORD
+
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0085
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713M9597   P00001     DG      98           E022
+              F S                                               U     .CAR.   D                D
+     BATCH NO T F    DATE       FDD                             N COM PT SC P P     .QTY VAR.  E
+FIC  RGS SERL C C  RECEIVED     DATE       NOUN     ACO  IS  PA L CD  NO NO S T BA  OVR   UND  L
+NBN  98  E022                14 MAY 27                          U 9E  A                         002 DUP LINE ITEM DATA IN ABSTR
+
+FIC      EFF MOD DATE    MOD AUTHORITY   MOD ISSUED BY  ADMIN BY  KIND MOD   SIGN DATE   REC CNT
+NB1       14 APR 14                         SPE4A4       S3306A      B       14 APR 14
+                                                             ...CONTRACTOR....
+FIC  EFF/ORD DT    CRA     DMS   ISSUED BY  ADMIN BY  PART    ID     FACIL  FMS   TYPE  CUR  PGI
+NBA                                                          7U740                 B
+         ...DISCOUNT TERMS...   PAY      TOT CONTR       SIGN    KD  TP   FUNC   CRIT  SPEC CONTR
+FIC       %   DA   %  DA NT O  OFFICE     AMOUNT         DATE    CT  CT   LIMIT  DSNG  PROVISIONS
+NBB                           9                                                         TSFW
+    ...IBOP..                                                             FOB T               I
+                                                                              R P G   L   P S A
+      I   C  C ........WIP %........                                      E M A A M   Q   T P F
+      N   N  A      ...US... ..FMS..      FEE          COST       AAA MAN S I N C S V D N R T O
+FIC   D % Y  T CEIL PAY RCP PAY RCP     AMOUNT        AMOUNT     CERT REV R N S K W E M A T L B
+NAJ                                 00000000000000 00000000000000         T                   6
+          CLIN                   ORDER    PUR        UNIT          TOTAL ITEM      PROJ
+FIC       ELIN   STOCK NUMBER   QUANTITY  UNT        PRICE           AMOUNT        MAGR
+NBE      0001   1560016056300    00000002   EA        1790.00000        3580.00                     DELETE  NBE
+          CLIN                                                                    QTY   VAR
+FIC       ELIN       NOUN                 PART NUMBER             PQA  ACC  FOB   OVR   UND
+NBF      0001     SKIN,AIRCRA                                      S    S    D                      DELETE  NBF
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0001
+i
+REPORT NUMBER  UNMA010A                DATE  14 APR 16                   CAO CODE                 PAGE  0086
+                                              REJECTED ABSTRACT REPORT TRANSACTIONS                     *** ACCEPTABLE ERRORS
+         PIIN         SPIIN     ORG     RGS          BATCH                                                       ERRORS
+     SPE4A713M9597   P00001     DG      98           E022
+                                                                               S   CLIN
+      CLIN    SHIP    MARK    DEL SCH      DEL SCH       TRNS     MILSTRIP     U    FOR
+FIC   ELIN     TO     FOR       DATE       QTY      ACR   PRI      DOC NUM     F  EXHIBIT
+NBG  0001    W25G1U          14 MAY 27  00000002    BX
+                                        P A        SERVICE
+      CLIN                              Q C         COMPL      TOTAL ITEM      PROJ
+FIC   ELIN    DESCRIPTION OF SERVICES   A C  ACR    DATE         AMOUNT        MNGR
+NBH  0002    Government First Article        AA  U                     0.00                     006 DUPLICATE RECORD
+                                                                                                073 * UNMATCHED DELETE TRAN
+                                                                                                    DELETE  NBH
+              L  F  W    FIRST
+      CLIN    I  A  H   ARTICLE          I/A
+FIC   ELIN    Q  C  D  ACC DATE   ACRN    CD     REQUISITION     CUR    BER    D/F
+NAL  0002        3                 AA                                                           B85 STR-INSP/ACCPT CODE
+                                                                                                    DELETE  NAL
+LAST PAGE
+
